@@ -8,7 +8,7 @@ import "./Interfaces.sol";
 
 /**
  * @title ArbitrageBot (Universal Execution Engine)
- * @author Gemini
+ * @author sanjay sen
  * @notice This contract is a highly flexible execution engine for complex arbitrage trades.
  * It is designed to be controlled by a sophisticated off-chain bot that constructs the transaction data.
  * This architecture provides maximum flexibility, allowing interaction with any protocol without contract changes.
